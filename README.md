@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asma Merabet</h1>
-<h3 align="center">Data Scientist with more than 3 years experiece</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merabetasma&label=Profile%20views&color=0e75b6&style=flat" alt="merabetasma" /> </p>
 
@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asmamerabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmamerabet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asma merabet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asma merabet" height="30" width="40" /></a>
-<a href="https://kaggle.com/merabetasma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="merabetasma" height="30" width="40" /></a>
+<a href=" https://www.linkedin.com/in/mr abet-asma-3b7998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asma merabet" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/merabetasma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="merabetasma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
